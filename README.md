@@ -2,7 +2,7 @@
 
 ---
 
-**Original book bibtex:**
+**Book bibtex:**
 ```bibtex
 @book{abelson1996sicp,
   author    = {Harold Abelson and Gerald Jay Sussman and Julie Sussman},
