@@ -1,7 +1,5 @@
 # My Notes on Structure and Interpretation of Computer Programs (SICP)
 
----
-
 **Book bibtex:**
 ```bibtex
 @book{abelson1996sicp,
@@ -15,5 +13,3 @@
   url       = {https://web.mit.edu/6.001/6.037/sicp.pdf}
 }
 ```
-
----
